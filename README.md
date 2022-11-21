@@ -4,7 +4,8 @@ soft skills: Java, Javascript, HTML, CSS, Git,
 <h5>currently learning: MySQl,  </h5>
 
 <div align="center">
-  <a href="https://github.com/pedromellodev">
+  <a href="https://github.com/MatheusJe
+           susdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromellodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromellodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
