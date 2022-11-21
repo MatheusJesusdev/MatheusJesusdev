@@ -1,6 +1,6 @@
 <h1>Hi, my name is Matheus De Jesus</h1>
 I am 16 years old<br>
-soft skills: Javascript, HTML, CSS, Git<br>
+<h5>soft skills: Javascript, HTML, CSS, Git<h5>
 <h5>currently learning: Java</h5>
 
 <div align="center">
